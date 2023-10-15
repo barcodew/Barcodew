@@ -34,6 +34,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Barcodew/Barcodew/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IniTyoo/IniTyoo/output/snake.svg" alt="Snake animation" />
 
 ###
