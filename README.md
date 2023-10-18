@@ -20,6 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original.svg" height="30" alt="j logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" height="30" alt="js logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind logo"  />
 </div>
 
 ###
