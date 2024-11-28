@@ -13,7 +13,7 @@
 
 <br><br>
 
-[![GitHub]([https://img.shields.io/badge/dynamic/json?label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGood4lien&longCache=true)](](https://img.shields.io/badge/dynamic/json?label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DBarcodew&longCache=true)https://github.com/Barcodew)
+[![GitHub]](](https://img.shields.io/badge/dynamic/json?label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DBarcodew&longCache=true)https://github.com/Barcodew)
 ![](https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Barcodew)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/Barcodew&color=Chartreuse)
 <hr>
