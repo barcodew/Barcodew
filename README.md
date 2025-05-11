@@ -26,7 +26,7 @@
   <a href="https://leetcode.com/barcodew/">
     <img align="left" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/leetcode.svg" />
   </a>
-  <a href="https://www.hackerrank.com/barcodew">
+  <a href="https://www.hackerrank.com/ahmadaliakbar203">
     <img align="left" alt="HackerRank Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerrank.svg" />
   </a>
   <a href="https://codeforces.com/profile/barcodew">
