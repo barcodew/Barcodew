@@ -7,7 +7,7 @@
 <hr>
 <p><samp>Hi there! I'm <b>Barcodew</b>.</samp></p>
 <p><samp>- 🌱 Loves C, C++, TypeScript, Linux && Music.</samp></p>
-<p><samp>- 🔭 Web development && Programming Languages.</samp></p>
+<p><samp>- 🔭 Deep Learning, Machine Learning, Cyber Security, Web development && Programming Languages.</samp></p>
 <p><samp>- 📒 Learning && Living.</samp></p>
 <p><samp>- 📫 -.</samp></p>
 
