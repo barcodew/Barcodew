@@ -3,6 +3,7 @@
   <a href="https://discord.com/users/542300187922661376">
     <img src="https://lanyard.cnrad.dev/api/542300187922661376"/>
   </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RichMarpaung&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </p>
 <hr>
 <p><samp>Hi there! I'm <b>Barcodew</b>.</samp></p>
